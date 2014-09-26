@@ -1,0 +1,50 @@
+body {
+      margin: 0;
+      padding: 0;
+    }
+
+#startingHTML {
+  padding: 0;
+}
+h1 {
+  margin: 0 auto;
+  margin-top: 40px; 
+  text-align: center;
+  line-height: 45px;
+  padding: 10px 0px;
+  font-size: 35px;
+}
+
+#image-container {
+  overflow: hidden;
+}
+
+#div1 {
+  width: 99%;
+  float: left;
+  margin: .5%;
+  text-align: center;
+}
+
+#div1 {
+  height: 99%;
+  background-color: #000;
+  border: 1px #ffffff;
+}
+
+#div2, #div3 {
+  height: 49%;
+  background-color: #000;
+  display: none;
+  /*border: 1px #ffffff;
+}
+
+#img1 {
+  width: auto;
+  height: auto;
+  margin: auto;
+  max-width: 100%;
+  max-height: 100%;
+  width: 100%;
+}
+*/
